@@ -1,0 +1,9 @@
+.UserOutputContainer{
+  border:1px solid black;
+  background-color: aliceblue;
+  width:500px;
+  height:20vh;
+  display:inline-block;
+  text-align: center;
+  margin-top: 20px;
+}
